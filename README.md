@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,tailwind,git,docker" />
-    <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,php,gin,fastapi,express,nextjs,laravel,postgresql,mysql,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,php,fastapi,express,nextjs,laravel,postgresql,mysql,tensorflow" /><br>
 </div>
 
 <br/>
